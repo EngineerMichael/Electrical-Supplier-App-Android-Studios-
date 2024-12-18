@@ -1,5 +1,5 @@
 # Electrical-Supplier-App-Android-Studios-
-Management, Supply, &amp; Demand
+
 Creating an Electrical Supplier App in Android Studio to manage supply and demand between vendors, contractors, and manufacturers involves designing an application with various user interfaces (UIs) and back-end logic to handle orders, inventory, communication, and more.
 We’ll outline the core features and provide a basic structure for the application, which includes:	
 •	User management (vendors, contractors, and manufacturers)	•	Order management system for products	
